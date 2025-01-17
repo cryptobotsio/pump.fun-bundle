@@ -59,8 +59,6 @@ For developers and businesses looking for full control over their trading tools.
 ## 🌐 Connect with Us  
 
 - Website: [Crypto-bots.io](https://crypto-bots.io)  
-- Twitter: [Insert Twitter Link]  
-- Telegram: [Insert Telegram Link]  
 
 ---
 
