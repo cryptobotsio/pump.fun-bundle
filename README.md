@@ -1,4 +1,4 @@
-# 🚀 Pump.fun Bots by Crypto-bots.io  
+# 🚀 Pump.fun Bundle Bot by Crypto-bots.io  
 
 Welcome to **Crypto-bots.io**, your destination for powerful cryptocurrency automation tools. We offer two cutting-edge products designed to simplify and optimize crypto trading:  
 
